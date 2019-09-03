@@ -1,0 +1,32 @@
+ body{
+ 	background-image: url(./image/back.jpg);
+ }
+
+ .pic{
+	height: 100px;
+	width: 100px;
+
+
+}
+.col-sm-2{
+	margin-top: 15px;
+}
+.col-sm-4{
+	margin-top: 35px;
+}
+
+.col-sm-3{
+	margin-top: 35px;
+}
+.slogan{
+       font-size: 25px;
+}
+.email{
+       font-size: 23px;
+       color: black;
+}
+.tel{
+       font-size: 23px;
+}
+
+
